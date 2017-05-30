@@ -1,1 +1,7 @@
+#practice_play dir initial text file:
+
 # lets get this ball rolling!
+# playing with git and git hub and  terminal commands
+
+
+note on git, github, directories: must have content in them in order to push directories on to git hub
